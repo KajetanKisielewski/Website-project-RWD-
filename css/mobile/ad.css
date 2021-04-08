@@ -1,0 +1,15 @@
+.notice {
+    background-color: var(--color-delta);
+}
+
+.notice__heading {
+    margin: 5rem 0 2rem 0;
+    padding: 1.5rem 0;
+    font-size: 3rem;
+    font-weight: normal;
+    color: var(--color-alfa);
+}
+
+.notice__content {
+    margin-bottom: 5rem;
+}

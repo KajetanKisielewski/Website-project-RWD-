@@ -1,0 +1,73 @@
+.footer {
+    background-color: var(--color-gamma);
+}
+
+.footer__logo {
+    padding: 6rem 0 0 0;
+}
+
+.footer__quotation {
+    margin: 3rem 0;
+    font-size: 1.5rem;
+    color: var(--color-alfa)
+}
+
+.socials--flex {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.footer__social {
+    padding: 1rem 1.5rem;
+    border-radius: 50%;
+    background-color: var(--color-gammav2);
+}
+
+.fab {
+    font-size: 2rem;
+}
+
+.footer__nav {
+    margin: 0 0 3rem 0;
+}
+
+.nav__list--services,
+.nav__list--pricing,
+.nav__list--download {
+    list-style: none;
+}
+
+.nav__list--services,
+.nav__list--pricing,
+.nav__list--download>* {
+    margin: 3rem 0;
+}
+
+.nav__list--services h3,
+.nav__list--pricing h3,
+.nav__list--download h3 {
+    margin: 3rem 0;
+    font-size: 2.5rem;
+    color: var(--color-alfa);
+}
+
+.nav__list--services li,
+.nav__list--pricing li,
+.nav__list--download li {
+    margin: 1.5rem 0;
+    font-size: 1.5rem;
+    color: var(--color-alfa);
+}
+
+.footer__copyright {
+    padding: 4rem 0;
+    background-color: var(--color-beta);
+}
+
+.copyright__description {
+    padding: 0 1rem;
+    font-size: 2rem;
+    text-align: center;
+    color: var(--color-alfa);
+}

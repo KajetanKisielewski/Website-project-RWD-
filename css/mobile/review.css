@@ -1,0 +1,34 @@
+.review {
+    margin: 5rem 0;
+    height: 0;
+    background-image: var(--gradient-alfa), url(../../images/banner/testmonial.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: calc(744 / 1920 * 300%);
+}
+
+.review__heading {
+    margin-top: calc(50% - 12rem);
+    font-size: 3rem;
+    font-weight: normal;
+    text-align: center;
+    color: var(--color-alfa);
+}
+
+.review__description {
+    margin: 2rem 0;
+    font-size: 1.5rem;
+    text-align: center;
+    color: var(--color-alfa);
+}
+
+.review__author {
+    padding: 1rem 0;
+    font-size: 1.5rem;
+    color: var(--color-alfa);
+}
+
+.fa-star {
+    color: var(--color-zeta);
+}

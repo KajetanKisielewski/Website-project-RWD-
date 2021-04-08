@@ -1,0 +1,48 @@
+.main__heading {
+    margin: 10rem 0 3rem 0;
+    font-size: 3rem;
+    font-weight: normal;
+    text-align: center;
+}
+
+.main__strengths {
+    width: 100%;
+    margin: 3rem 0;
+}
+
+.strengths__strength {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.strength__img {
+    width: 50%;
+    border: 2rem solid var(--color-icon1);
+    border-radius: 1rem;
+}
+
+.strength__img--first {
+    background-color: var(--color-icon1);
+}
+
+.strength__img--second {
+    background-color: var(--color-icon2);
+    border-color: var(--color-icon2);
+}
+
+.strength__img--third {
+    background-color: var(--color-icon3);
+    border-color: var(--color-icon3);
+}
+
+.strength__description {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    font-weight: normal;
+    text-align: center;
+}
+
+.main__strengths--third {
+    margin-bottom: 10rem;
+}
