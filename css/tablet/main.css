@@ -1,0 +1,11 @@
+.main {
+    grid-template-columns: repeat(11, 1fr);
+}
+
+.main__heading {
+    margin-top: 15rem;
+}
+
+.main__strengths {
+    margin-bottom: 15rem;
+}

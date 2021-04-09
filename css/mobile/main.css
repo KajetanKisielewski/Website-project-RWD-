@@ -46,3 +46,9 @@
 .main__strengths--third {
     margin-bottom: 10rem;
 }
+
+@media (min-width: 400px) {
+    .main__heading {
+        margin: 12rem 0 3rem 0;
+    }
+}

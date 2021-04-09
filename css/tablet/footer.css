@@ -1,0 +1,21 @@
+.footer__nav {
+    margin: 0 0 10rem 0;
+}
+
+.footer__quotation {
+    margin: 10rem 0 3rem 0;
+}
+
+.nav__list--services,
+.nav__list--pricing,
+.nav__list--download>* {
+    margin: 0 0;
+}
+
+.footer__social {
+    margin: 20rem 0 3rem 0;
+}
+
+.footer__logo {
+    padding: 3rem 0 0 0;
+}

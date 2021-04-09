@@ -1,0 +1,25 @@
+.subscription {
+    grid-template-columns: repeat(11, 1fr);
+    padding-bottom: 8rem;
+}
+
+.subscription__description {
+    margin: 2rem 0 9rem 0;
+}
+
+.subscription__offer--third {
+    margin-bottom: 2rem;
+}
+
+.subscription__offer--second {
+    height: 110%;
+    align-self: center;
+}
+
+
+.subscription__offer--first,
+.subscription__offer--second,
+.subscription__offer--third {
+    box-shadow: 0.1rem 0.1rem 0.5rem 0 var(--color-subscription-1),
+        -0.1rem -0.1rem 0.5rem 0 var(--color-subscription-1);
+}

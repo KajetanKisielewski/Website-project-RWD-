@@ -1,0 +1,25 @@
+.header {
+    padding-bottom: calc(900 / 1920 * 150%);
+}
+
+.header__heading {
+    margin: 8rem 0 0 0;
+    font-size: 3rem;
+}
+
+.header__description {
+    margin-top: 20rem;
+}
+
+.header__button {
+    margin-top: 30rem;
+}
+
+.header__graphics {
+    padding-top: 8rem;
+    text-align: center;
+}
+
+.graphics__img {
+    width: 90%;
+}
