@@ -8,15 +8,15 @@
     padding-bottom: calc(900 / 1920 * 700%);
 }
 
-/* LOGO  */
+.header__download {
+    display: none;
+}
 
 
 .header__logo {
     padding: 3rem 0;
     z-index: 3;
 }
-
-/* HAMBURGER MENU  */
 
 
 .nav__toggle {
@@ -67,7 +67,6 @@
     transform: translateX(0)
 }
 
-/* NAWIGACJA MOBILE  */
 
 .header__nav {
     position: relative;
@@ -143,7 +142,6 @@
 }
 
 
-/* Header heading */
 
 .header__heading {
     margin: 4rem 0 2rem 0;
@@ -170,10 +168,4 @@
     letter-spacing: 0.1rem;
     background-color: var(--color-epsilon);
     cursor: pointer;
-}
-
-@media (min-width: 400px) {
-    .header {
-        padding-bottom: calc(900 / 1920 * 600%);
-    }
 }

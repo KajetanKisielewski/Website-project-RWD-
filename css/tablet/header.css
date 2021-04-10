@@ -2,6 +2,10 @@
     padding-bottom: calc(900 / 1920 * 150%);
 }
 
+.header__download {
+    display: none;
+}
+
 .header__heading {
     margin: 8rem 0 0 0;
     font-size: 3rem;

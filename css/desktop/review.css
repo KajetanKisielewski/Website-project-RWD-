@@ -1,0 +1,8 @@
+.review {
+    padding-bottom: calc(744 / 1920 * 100%);
+
+}
+
+.review__heading {
+    margin-top: 15%;
+}

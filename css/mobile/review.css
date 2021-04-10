@@ -32,10 +32,3 @@
 .fa-star {
     color: var(--color-zeta);
 }
-
-
-@media (min-width: 400px) {
-    .review {
-        padding-bottom: calc(744 / 1920 * 260%);
-    }
-}
