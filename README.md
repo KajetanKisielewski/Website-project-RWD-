@@ -47,7 +47,7 @@ Breakpoints:
 ### Links:
 
 - Code: [See my code](https://github.com/KajetanKisielewski/task-html-and-css-rwd)
-- Live: [Check it out]()
+- Live: [Check it out](https://kajetankisielewski.github.io/task-html-and-css-rwd/)
 
 
 ## My Process
