@@ -21,7 +21,7 @@
 .footer__social {
     padding: 1rem 1.5rem;
     border-radius: 50%;
-    background-color: var(--color-gammav2);
+    background-color: var(--color-gamma-lighter);
 }
 
 .fab {

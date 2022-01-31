@@ -64,7 +64,8 @@ Breakpoints:
 
 ### What I learned
 
-This project allowed me to enter the world of BEM methodology and practice the CSS Grid.
+This project allowed me to fine-tune my ability to use the BEM methodology and practice the CSS Grid.
+I also learned to create projects in the "mobile-first" convention. Thanks to the project, I also saw the benefits of splitting the code into smaller modules. I decided to use '@import' in the css file, I am aware that this is a slower option, but it keeps the code clean.
 
 
 ### Useful resources
